@@ -1,2 +1,1 @@
-# hello-world
-Just another repository
+Although all tweets have unique ids, there are about 0.5\% of them have the same contents and about 18.3\% of them are retweets (identified by the "retweet" label). These tweets that have been retweeted will be counted more than once and thus increase the frequency of Trump being mentioned.
